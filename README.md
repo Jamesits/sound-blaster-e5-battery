@@ -3,7 +3,7 @@ This repo provides some information on the battery issue of [Creative Sound Blas
 ## The Problem
 
 * The unit can be used as a desktop DAC (always plugged in)
-* Power management issues causing the battery is always in charging state as long as the microUSB port is connected
+* Power management issues causing the battery is always in charging state as long as the MicroUSB is connected
 * The unit gets very hot on normal operation
 * The battery is directly touching the PCB and there are a lot of sharp pieces on the PCB
 
