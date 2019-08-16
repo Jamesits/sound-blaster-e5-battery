@@ -8,7 +8,7 @@ Put a large capacitor between +BAT and GND. This method requires an actual batte
 
 This method emulates a ~4V voltage to make the PMIC think there is a full battery. But we cannot easily access any +5V rail on the E5 PCB, thus an external power (e.g. cut your USB cable to get a 5V rail) might be required. 
 
-![](ams1117_4v.png)
+![](assets/ams1117_4v.png)
 
 Credit: this method came from [rgwan](https://github.com/rgwan). 
 

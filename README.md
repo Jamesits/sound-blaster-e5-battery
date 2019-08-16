@@ -20,11 +20,11 @@ Do your unit have this problem too? You can find out by the following methods:
 
 ### Replace A Battery
 
-See [](BATTERY_REPLACEMENT.md).
+See [BATTER_REPLACEMENT.md](BATTERY_REPLACEMENT.md).
 
 ### Fake A Battery (WIP)
 
-See [](FAKE_BATTERY.md).
+See [FAKE_BATTERY.md](FAKE_BATTERY.md).
 
 ### Develop Your Own Solution
 
@@ -50,3 +50,6 @@ To exit the recovery mode:
 
 1. Long press the power button until all LEDs are off
 
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />All text and media from this repository are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
