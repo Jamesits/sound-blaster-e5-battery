@@ -6,7 +6,7 @@ Put a large capacitor between +BAT and GND. This method requires an actual batte
 
 ## The Voltage Emulation Method
 
-This method emulates a ~4V voltage to make the PMIC think there is a full battery. But we cannot easily access any +5V rail on the E5 PCB, thus an external power (e.g. cut your USB cable to get a 5V rail) might be required. 
+This method emulates a full battery by providing a ~4V voltage to the PMIC. But we cannot easily access any +5V rail on the E5 PCB, thus an external power (e.g. cut your USB cable to get a 5V rail) might be required. 
 
 ![](assets/ams1117_4v.png)
 
