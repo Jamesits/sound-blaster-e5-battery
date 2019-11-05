@@ -22,7 +22,7 @@ Do your unit have this problem too? You can find out by the following methods:
 
 See [BATTER_REPLACEMENT.md](BATTERY_REPLACEMENT.md).
 
-### Fake A Battery (WIP)
+### Fake A Battery
 
 See [FAKE_BATTERY.md](FAKE_BATTERY.md).
 
