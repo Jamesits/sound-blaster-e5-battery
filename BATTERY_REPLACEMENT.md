@@ -1,3 +1,7 @@
+# 3rd Party Compatible Battery
+
+See https://github.com/Jamesits/sound-blaster-e5-battery/issues/2.
+
 # DIY Battery Replacement
 
 **WARNING** This method will disable battery temperature measurement, so it won't shutdown even if the battery is too hot. Please be aware of the potential risk. 
