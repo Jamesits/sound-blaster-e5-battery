@@ -16,6 +16,10 @@ Do your unit have this problem too? You can find out by the following methods:
 * Is The front side of your unit (the one with NFC logo) curved? Place it on a flat surface and see if it fits.
 * Is the metal bar (with SoundBlaster logo on it) not firmly attached to the plastic plate under it?
 
+## Update the Firmware
+
+[Check here](https://support.creative.com/downloads/welcome.aspx?nDriverType=4#type_4) for a new firmware release which might solve some of the power management problems.
+
 ## The DIY Solution 
 
 ### Replace A Battery
